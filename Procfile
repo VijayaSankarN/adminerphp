@@ -1,0 +1,1 @@
+web: php adminer.php

@@ -1,0 +1,7 @@
+{
+  "name": "Adminer Button",
+  "description": "Button deployment for adminer",
+  "repository": "https://github.com/heroku/node-js-sample",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["adminer"]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "vijaya_sankar/adminer",
+    "description": "An adminer tool for Heroku",
+    "authors": [
+        {
+            "name": "Vijaya Sankar N",
+            "email": "sankar.animation@gmail.com"
+        }
+    ],
+    "require": {}
+}
